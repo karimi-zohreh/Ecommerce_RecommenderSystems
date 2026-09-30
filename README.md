@@ -100,14 +100,14 @@ ecommerce_recommender/
 │   └── sample-data.csv
 │
 └── docs/
-    └── Ecommerce_Content_Based_Recommender.pdf
+    └── Ecommerce_Content_Based_Recommenders.pdf
 ```
 
 ## Documentation
 
 A detailed PDF document describing the project and recommendation approach is available here:
 
-[📄 Ecommerce Content-Based Recommender – PDF](docs/Ecommerce_Content_Based_Recommender.pdf)
+[📄 Ecommerce Content-Based Recommender – PDF](docs/Ecommerce_Content_Based_Recommenders.pdf)
 
 ## References
 
